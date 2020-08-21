@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+    
+}
+.table1{
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 5px 0 #000;
+}
+.table2{
+    width: 320px;
+}
+
+.table2,
+.table2 th,
+.table2 td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table2 th:first-child{
+
+}

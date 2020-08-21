@@ -1,0 +1,17 @@
+p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 12cm;
+    margin-inline-end: 0px;
+}
+
+hr{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 12cm;
+    margin-inline-end: 12cm;
+}
+.content{
+    text-align: center;
+    background-color: #FFFFCC;
+}
